@@ -86,7 +86,7 @@ void minuitFunction(int& nDim, double* gout, double&result, double par[], int fl
 
 }
 
-void twelve2() {
+void minuit_script() {
   //TFitter* minimizer = new TFitter(18);
   TFitter* minimizer = new TFitter(24);
 
